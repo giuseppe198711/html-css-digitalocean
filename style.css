@@ -20,3 +20,41 @@
 .jumbotron-right {
   background-color: yellow;
 }
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box-list {
+  background-color: blue;
+  height: 300px;
+  width: 100px;
+}
+
+.box-deploy {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+
+.left-designed {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+}
+
+.img-designed {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+
+}
+
+.right-designed {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
