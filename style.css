@@ -1,0 +1,22 @@
+.navbar-left {
+
+  background-color: red;
+}
+
+.navbar-center {
+
+  background-color: green;
+}
+
+.navbar-right {
+
+  background-color: blue;
+}
+
+.jumbotron-left {
+  background-color: pink;
+}
+
+.jumbotron-right {
+  background-color: yellow;
+}
