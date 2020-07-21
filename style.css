@@ -20,6 +20,11 @@ p {
   color: #1633FF;
 }
 
+.view {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .sponsor, .main1, .main4{
   background-color: #F3F5F9;
 }
@@ -28,12 +33,11 @@ p {
   background-color: #0858FF;
 }
 
-
 .jumbotron {
   background-color: #0069ff;
 }
 
-.jumbotron-left, {
+.jumbotron-left {
   color: white;
   margin-top: 50px;
 }
@@ -41,6 +45,18 @@ p {
 .jumbotron-right {
   background-color: white;
   margin-top: 50px;
+}
+
+.btn-google {
+  position: relative;
+}
+
+.img-google {
+  position: absolute;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
 }
 
 .signing {
@@ -57,8 +73,17 @@ p {
   height: 30px;
 }
 
+.box-list {
+  border-left: 1px solid black;
+}
+
 .list-deploy {
   list-style: none;
+
+}
+
+.list-deploy li {
+  margin-bottom: 20px;
 }
 
 .img-designed {
@@ -72,10 +97,12 @@ p {
 
 .fa-circle, .far {
   color: #1633FF;
+
 }
 
 .far {
   margin-right: 5px;
+  margin-bottom: 40px;
 }
 
 .icon-business {
@@ -84,8 +111,8 @@ p {
 }
 
 .service-list-left {
-  height: 100px;
-  background-color: red;
+  
+  display: inline-block;
 
 }
 
@@ -108,10 +135,16 @@ p {
   color: white;
 }
 
-
-
 footer {
   background-color: #010E28;
+}
+.footer-left {
+  color: #5E6674;
+}
+
+.logo-ocean {
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 .list {
