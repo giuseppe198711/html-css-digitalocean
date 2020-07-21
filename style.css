@@ -71,12 +71,10 @@ p {
   margin-right: 5px;
 }
 
-
-.box-business {
-  background-color: orange;
-  height: 100px;
+.icon-business {
+  width: 30px;
+  height: 30px;
 }
-
 
 .service-list-left {
   height: 100px;
