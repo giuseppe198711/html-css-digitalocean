@@ -10,7 +10,6 @@ p {
   margin-bottom: 30px;
 }
 
-
 .logo-digital {
   width: 120px;
   margin-top: 14px;
@@ -21,8 +20,12 @@ p {
   color: #1633FF;
 }
 
-.sponsor, .main1{
+.sponsor, .main1, .main4{
   background-color: #F3F5F9;
+}
+
+.main5 {
+  background-color: #0858FF;
 }
 
 
@@ -52,6 +55,10 @@ p {
 .icon-deploy {
   width: 30px;
   height: 30px;
+}
+
+.list-deploy {
+  list-style: none;
 }
 
 .img-designed {
@@ -87,38 +94,30 @@ p {
   background-color: green;
 }
 
-.left-development {
-  background-color: grey;
-  height: 100px;
+.img-designed2 {
+  width: 350px;
 }
 
-.img-development {
-  background-color: yellow;
-  height: 100px;
+.btn-default {
+  background-color: white;
+  color: #0858FF;
+  margin-bottom: 50px;
 }
 
-.right-development {
-  background-color: red;
-  height: 100px;
+.get {
+  color: white;
 }
 
 
-.footer-company {
-  height: 100px;
-  background-color: green;
+
+footer {
+  background-color: #010E28;
 }
 
-.footer-product {
-  height: 100px;
-  background-color: grey;
+.list {
+  list-style: none;
+  color: #5E6674;
 }
-
-.footer-community {
-  height: 100px;
-  background-color: pink;
-}
-
-.footer-support {
-  height: 100px;
-  background-color: yellow;
+.title-link {
+  color: white;
 }
