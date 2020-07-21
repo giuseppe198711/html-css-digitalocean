@@ -58,3 +58,56 @@
   width: 100px;
   height: 100px;
 }
+
+.box-business {
+  background-color: orange;
+  height: 100px;
+}
+
+
+.service-list-left {
+  height: 100px;
+  background-color: red;
+
+}
+
+.service-list-right {
+  height: 100px;
+  background-color: green;
+}
+
+.left-development {
+  background-color: grey;
+  height: 100px;
+}
+
+.img-development {
+  background-color: yellow;
+  height: 100px;
+}
+
+.right-development {
+  background-color: red;
+  height: 100px;
+}
+
+
+.footer-company {
+  height: 100px;
+  background-color: green;
+}
+
+.footer-product {
+  height: 100px;
+  background-color: grey;
+}
+
+.footer-community {
+  height: 100px;
+  background-color: pink;
+}
+
+.footer-support {
+  height: 100px;
+  background-color: yellow;
+}
