@@ -1,63 +1,76 @@
-.navbar-left {
-
-  background-color: red;
+.tc {
+  text-align: center;
 }
 
-.navbar-center {
-
-  background-color: green;
+h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+p {
+  margin-bottom: 30px;
 }
 
-.navbar-right {
 
-  background-color: blue;
+.logo-digital {
+  width: 120px;
+  margin-top: 14px;
+  margin-right: 100px;
 }
 
-.jumbotron-left {
-  background-color: pink;
+.color-blulight {
+  color: #1633FF;
+}
+
+.sponsor, .main1{
+  background-color: #F3F5F9;
+}
+
+
+.jumbotron {
+  background-color: #0069ff;
+}
+
+.jumbotron-left, {
+  color: white;
+  margin-top: 50px;
 }
 
 .jumbotron-right {
-  background-color: yellow;
+  background-color: white;
+  margin-top: 50px;
 }
 
-.box {
-  width: 100px;
-  height: 100px;
-  background-color: red;
+.signing {
+  margin-bottom: 30px;
 }
 
-.box-list {
-  background-color: blue;
-  height: 300px;
-  width: 100px;
+.logo {
+  width: 150px;
+  height: 70px;
 }
 
-.box-deploy {
-  background-color: green;
-  width: 100px;
-  height: 100px;
-}
-
-
-.left-designed {
-  background-color: pink;
-  width: 100px;
-  height: 100px;
+.icon-deploy {
+  width: 30px;
+  height: 30px;
 }
 
 .img-designed {
-  background-color: green;
-  width: 200px;
-  height: 100px;
-
+  width: 400px;
 }
 
-.right-designed {
-  background-color: yellow;
-  width: 100px;
-  height: 100px;
+.fas {
+  width: 30px;
+  height: 30px;
 }
+
+.fa-circle, .far {
+  color: #1633FF;
+}
+
+.far {
+  margin-right: 5px;
+}
+
 
 .box-business {
   background-color: orange;
